@@ -1,0 +1,11 @@
+C:\Users\Nelso\source\repos\InterfaceMis\bin\Debug\InterfaceMis.exe.config
+C:\Users\Nelso\source\repos\InterfaceMis\bin\Debug\InterfaceMis.exe
+C:\Users\Nelso\source\repos\InterfaceMis\bin\Debug\InterfaceMis.pdb
+C:\Users\Nelso\source\repos\InterfaceMis\obj\Debug\InterfaceMis.csproj.AssemblyReference.cache
+C:\Users\Nelso\source\repos\InterfaceMis\obj\Debug\InterfaceMis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nelso\source\repos\InterfaceMis\obj\Debug\InterfaceMis.Form1.resources
+C:\Users\Nelso\source\repos\InterfaceMis\obj\Debug\InterfaceMis.Properties.Resources.resources
+C:\Users\Nelso\source\repos\InterfaceMis\obj\Debug\InterfaceMis.csproj.GenerateResource.cache
+C:\Users\Nelso\source\repos\InterfaceMis\obj\Debug\InterfaceMis.csproj.CoreCompileInputs.cache
+C:\Users\Nelso\source\repos\InterfaceMis\obj\Debug\InterfaceMis.exe
+C:\Users\Nelso\source\repos\InterfaceMis\obj\Debug\InterfaceMis.pdb
